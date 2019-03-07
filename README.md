@@ -1,6 +1,8 @@
 # DockerEthDevNet
-A set of Docker images to create a local Ethereum network with three nodes and a monitor.
 **NEVER USE THIS ON PRODUCTION**
+
+A set of Docker images to create a local Ethereum network with three nodes and a monitor.
+
 
 The testnet consists out of multiple parts :
 * 1 Bootnode - registers existing nodes on the network, discovery service.
